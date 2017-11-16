@@ -1,0 +1,31 @@
+{
+  "author": {
+    "name": "Thomas Radloff",
+    "email": "bostontrader@gmail.com",
+    "url": "https://github.com/bostontrader"
+  },
+  "bugs": {
+    "url": "https://github.com/bostontrader/polo-adapter/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^4.10.0"
+  },
+  "description": "Make requests for the poloniex.com API.",
+  "homepage": "https://github.com/bostontrader/polo-adapter#readme",
+  "keywords": [
+    "adapter",
+    "poloniex",
+    "sandbox"
+  ],
+  "license": "MIT",
+  "name": "polo-adapter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bostontrader/polo-adapter.git"
+  },
+  "scripts": {
+  },
+  "version": "0.9.0"
+}
